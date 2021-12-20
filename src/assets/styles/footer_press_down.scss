@@ -1,0 +1,12 @@
+// прижать подвал к нижней части страницы
+
+.footer-press-down {
+    // display: flex;
+    // flex-direction: column;
+    // justify-content: space-between;
+    // height: 100vh;
+
+    display: grid;
+    grid-template-rows:min-content 1fr;
+    min-height: 100vh;
+  }

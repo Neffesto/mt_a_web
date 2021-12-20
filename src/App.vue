@@ -1,5 +1,5 @@
 <template>
-  <section class="basement">
+  <section class="footer-press-down">
     <Header />
     <router-view />
     <Footer />

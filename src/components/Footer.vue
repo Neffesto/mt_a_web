@@ -17,7 +17,7 @@
   height: 194px;
   font-size: 16px;
   background-color: #222222;
-  color: #a5a5a5;
+  color: #e8e8e8;
   padding-top: 40px;
 }
 </style>
